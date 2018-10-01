@@ -1,0 +1,30 @@
+body {
+    background-color: black;
+    text-align: center;
+    font-family: Verdana, sans-serif;
+}
+
+h1 {
+    color: white;
+    font-size: 50px;
+}
+
+p {
+    color: grey;
+    font-size: 21px;
+}
+
+a {
+    color: Aquamarine;
+    display: block;
+}
+
+img, 
+video {
+    display: block;
+    margin: 2em auto;
+}
+
+#copy {
+    text-align: right;
+}
